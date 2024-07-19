@@ -16,27 +16,52 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- Name: Phiwamandla Mkhwanazi
+- Date: 19 July 2024
+- Current Role/Position: Student
+- Field of Interest: Software Engineering
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+        - HTML5, CSS
+            - Basic HTML, Basic CSS, Advanced CSS, CSS Layouts, CSS Animation
+        - .NET, .NET Core
+        - EF Core 6 
+        - MVC Models
+        - MS SQL SERVER
+        - BASH
+        - Github
+        - CCNA (Network Administration)
+
     - Identify skills you need to develop or improve.
+        - JavaScript
+        - CSS Tailwind (CSS Frameworks)
+        - Vue.js
+        - React.js
+        - Bootstrap (CSS Frameworks)s
+
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+        - Robotics
+        - Human Computer Interation ()
+        - Networking
+
     - What values are important to you in a work environment?
+        - Passion
+        - Collaboration
+        - Respect
+        - Accountability
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+        - 
     - Note any particular areas that piqued your interest.
 2. **Alignment with Personal Profile**:
     
